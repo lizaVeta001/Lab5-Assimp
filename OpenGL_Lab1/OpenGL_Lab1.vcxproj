@@ -77,7 +77,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>$(SolutionDir)glm;$(SolutionDir)glew\include;D:\Desktop\CompGr\Lab5-Assimp\assimp\assimp\build\include;$(SolutionDir)glfw\include;D:\Desktop\CompGr\Lab5-Assimp\assimp\assimp\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)glm;$(SolutionDir)glew\include;$(SolutionDir)\assimp\assimp\build\include;$(SolutionDir)glfw\include;$(SolutionDir)\assimp\assimp\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -94,7 +94,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>$(SolutionDir)glm;$(SolutionDir)glew\include;D:\Desktop\CompGr\Lab5-Assimp\assimp\assimp\build\include;$(SolutionDir)glfw\include;D:\Desktop\CompGr\Lab5-Assimp\assimp\assimp\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)glm;$(SolutionDir)glew\include;$(SolutionDir)\assimp\assimp\build\include;$(SolutionDir)glfw\include;$(SolutionDir)\assimp\assimp\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -111,7 +111,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>$(SolutionDir)glm;$(SolutionDir)glew\include;D:\Desktop\CompGr\Lab5-Assimp\assimp\assimp\build\include;$(SolutionDir)glfw\include;D:\Desktop\CompGr\Lab5-Assimp\assimp\assimp\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)glm;$(SolutionDir)glew\include;$(SolutionDir)\assimp\assimp\build\include;$(SolutionDir)glfw\include;$(SolutionDir)\assimp\assimp\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -128,7 +128,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>$(SolutionDir)glm;$(SolutionDir)glew\include;D:\Desktop\CompGr\Lab5-Assimp\assimp\assimp\build\include;$(SolutionDir)glfw\include;D:\Desktop\CompGr\Lab5-Assimp\assimp\assimp\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)glm;$(SolutionDir)glew\include;$(SolutionDir)\assimp\assimp\build\include;$(SolutionDir)glfw\include;$(SolutionDir)\assimp\assimp\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
